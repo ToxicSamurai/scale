@@ -1,3 +1,6 @@
+//ToxicSamurai
+//You may use/edit
+
 float scaleSize = 1;
 float scaleSpeed = 0.015;
 int posX = 450;
